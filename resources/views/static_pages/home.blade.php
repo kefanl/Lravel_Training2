@@ -13,7 +13,7 @@
         Everything will start from here.
     </p>
     <p>
-        <a class="btn btn-lg btn-success" href="{{ route('signup')}}" role="button">Now Register</a>
+        <a class="btn btn-lg btn-success" href="{{ route('signup') }}" role="button">Now Register</a>
     </p>
 </div>
 
